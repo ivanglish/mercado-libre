@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Mercado Libre
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ivanglish
+Implementation-Vendor-Id: com.mercado.libre
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/Mercado_libr
+ e/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
